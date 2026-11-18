@@ -1,0 +1,127 @@
+version: 1
+project:
+  title: Immanuel, Decatur, Indiana, Church Records
+  authors:
+    - name: Kurt Krueckeberg
+  github: kurt-krueckeberg/jb2-immanuel
+  plugins:
+    - flat-table.mjs
+    - link-images.mjs
+  exports:
+    - format: typst
+      template: plain_typst_book
+      output: exports/book.pdf
+      id: book-pdf
+  toc:
+    - file: immanuel/cover-page.md
+    - title: Immanuel Church Register 1850-1905
+      children:
+        - file: immanuel/church-ordnung.md
+          children:
+            - file: immanuel/image4.md
+            - file: immanuel/image5.md
+            - file: immanuel/image6.md
+            - file: immanuel/image7.md
+            - file: immanuel/image8.md
+            - file: immanuel/image9.md
+            - file: immanuel/image10.md
+            - file: immanuel/image11.md
+        - file: immanuel/founders.md
+          children:
+            - file: immanuel/DEC-BIO-Bleeke-01.md
+            - file: immanuel/DEC-BIO-Krueckeberg-01.md
+            - file: immanuel/DEC-BIO-Grote.md
+            - file: immanuel/DEC-BIO-Reinking-01.md
+            - file: immanuel/DEC-BIO-Weiland.md
+            - file: immanuel/DEC-BIO-Thieme.md
+            - file: immanuel/DEC-BIO-Bleeke-03.md
+            - file: immanuel/DEC-BIO-Krueckeberg-02.md
+            - file: immanuel/DEC-BIO-Bleeke-02.md
+            - file: immanuel/DEC-BIO-Schamerloh-01.md
+            - file: immanuel/DEC-BIO-Koldewey.md
+            - file: immanuel/DEC-BIO-Stoehr.md
+            - file: immanuel/DEC-BIO-Ruecklos-01.md
+            - file: immanuel/DEC-BIO-Ruecklos-02.md
+            - file: immanuel/DEC-BIO-Schamerloh-02.md
+            - file: immanuel/DEC-BIO-Hoeriger.md
+            - file: immanuel/DEC-BIO-Fells.md
+            - file: immanuel/DEC-BIO-Stendler.md
+            - file: immanuel/DEC-BIO-Reinking-02.md
+            - file: immanuel/DEC-BIO-Bibelheimer.md
+        - file: immanuel/image37.md
+          title: Pastors of Immanuel
+        - file: immanuel/image38.md
+          title: Continuation of marriages
+        - file: immanuel/taufregister.md
+          children:
+            - file: immanuel/image46.md
+            - file: immanuel/image47.md
+            - file: immanuel/image48.md
+            - file: immanuel/image49.md
+            - file: immanuel/image50.md
+            - file: immanuel/image51.md
+            - file: immanuel/image52.md
+            - file: immanuel/image53.md
+            - file: immanuel/image54.md
+            - file: immanuel/image55.md
+            - file: immanuel/image56.md
+            - file: immanuel/image57.md
+            - file: immanuel/image58.md
+            - file: immanuel/image59.md
+            - file: immanuel/image60.md
+            - file: immanuel/image61.md
+            - file: immanuel/image62.md
+            - file: immanuel/image63.md
+            - file: immanuel/image64.md
+            - file: immanuel/image65.md
+            - file: immanuel/image66.md
+            - file: immanuel/image67.md
+            - file: immanuel/image68.md
+            - file: immanuel/image69.md
+            - file: immanuel/image70.md
+            - file: immanuel/image71.md
+            - file: immanuel/image72.md
+            - file: immanuel/image73.md
+            - file: immanuel/image74.md
+            - file: immanuel/image75.md
+            - file: immanuel/image81.md
+            - file: immanuel/image82.md
+            - file: immanuel/image83.md
+            - file: immanuel/image89.md
+            - file: immanuel/image90.md
+            - file: immanuel/image91.md
+            - file: immanuel/image92.md
+            - file: immanuel/image93.md
+            - file: immanuel/image94.md
+            - file: immanuel/image95.md
+            - file: immanuel/image96.md
+            - file: immanuel/image97.md
+            - file: immanuel/image98.md
+            - file: immanuel/image99.md
+            - file: immanuel/image100.md
+            - file: immanuel/image101.md
+            - file: immanuel/image102.md
+            - file: immanuel/image103.md
+            - file: immanuel/image104.md
+            - file: immanuel/image105.md
+            - file: immanuel/image106.md
+            - file: immanuel/image107.md
+            - file: immanuel/image108.md
+            - file: immanuel/image109.md
+        - file: immanuel/confirmations.md
+          children:
+            - file: immanuel/image117.md
+            - file: immanuel/image118.md
+        - file: immanuel/funerals.md
+          children:
+            - file: immanuel/image229.md
+            - file: immanuel/image230.md
+            - file: immanuel/image231.md
+            - file: immanuel/image232.md
+site:
+  options:
+    folders: true
+    style: _static/overrides.css
+    logo: _static/light-krueckeberg-genealogy.svg
+    logo_dark: _static/dark-krueckeberg-genealogy.svg
+  template: book-theme

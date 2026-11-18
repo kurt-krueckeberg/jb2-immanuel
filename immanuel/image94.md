@@ -1,0 +1,43 @@
+# Page 127, Baptisms 273-278
+
+```{figure} images/94.jpg
+:class: image-override
+```
+
+## Transliteration
+
+```text
+273   6  Emma Emilie Magarethe
+         geb. den 21. April 1892 getauft den 1. Mai 1892
+         Eltern: Fr. Roth.  Therese get Büttner
+         Pathen: Emilie Haugk & Emma Büttner
+         W. Schmidt
+
+274   7 Klara Karoline Christine [Wm. Hochemeier]
+         geb. 27. Mai 1872 geb. den 5. Juni 1892
+         Eltern: Fritz Thieme & Sophie geb. Krückeberg
+         Pathen: Caroline Krückeberg (Stellvertreter Frau Bütter) Christine Böhnke
+         (Stellvertreter für Sophie v. Thieme)
+         W. Schmidt.
+
+275   8  Laura Louise Marie [Mart. Krueckeberg]
+         geb. den 4. Juni 1892 get. den 12. juni 1872
+         Eltern: Martin Bleeke u. Emma geb. Holle
+         Pathen: Frau Maria Blecke und Frau Louise Holle
+
+276   9  Bertha Karoline Marie [Theo Reidenbach]
+         geb. den 8. Juli 92. geb. den 24. Juni 1892
+         Eltern: H. Bischoff u. Christine geb. Bleeke
+         Pathen: Frauu Georg Rinige u. Frau Bischoff (Stellvertreterolbert [M.?] Heuer
+         W. Schmidt
+
+277  10  Luise Sophie Wilhelmine [†3/9/31]
+         geb. den 19. August 1892. getauft den 28. Aug. 1892
+         Eltern: H. Bleeke u. Emilie, geb. Thieme
+         Pathen:. Sophie Pleeke u. Wilhelmine Thieme
+         W. Schmidt
+         Nr. 79
+
+278  11  [might be double entry on no. 79] 
+         Eltern: Fr. Krückeberg & Emma geb. Koldewey
+```
